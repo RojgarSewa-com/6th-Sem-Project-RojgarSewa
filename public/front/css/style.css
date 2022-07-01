@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+
+html, body {
+    width: 100%;
+
+}
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+nav {
+    background: #0096B7;
+    font-size: 1rem;
+    font-weight: normal;
+}
+
+nav a {
+    color: white !important;
+}
+
+.nav-link.active {
+    font-weight: bolder !important;
+}
+
+nav img {
+    height: 50px;
+
+}
+
+.nav-item {
+    padding-left: 3rem;
+    margin-top: 0.5rem;
+}
+
+
+.banner {
+    background-image: url("https://assets.cureus.com/uploads/homepage_hero/hero_image/1/hero_homepage.jpeg");
+    color: black;
+    height: 500px;
+}
+
+.search {
+    color: white;
+    background-color: #0096B7;
+    margin-left: 2rem !important;
+    width: 5rem;
+    border: #0096B7;
+}
+
+.search:hover {
+    background-color: #0c525d;
+}
+
+footer {
+    background-color: #555555;
+    color: white;
+    padding-top: 4rem;
+    padding-bottom: 3rem;
+}
+
+.fa-facebook {
+    font-size: 30px;
+    color: white;
+    margin-right: 1rem;
+}
+
+.fa-twitter {
+    font-size: 30px;
+    color: white;
+    margin-right: 1rem;
+}
+
+.fa-instagram {
+    font-size: 30px;
+    color: white;
+    margin-right: 1rem;
+}
+
+.fa-linkedin {
+    font-size: 30px;
+    color: white;
+    margin-right: 1rem;
+}
+
+.join {
+    color: white;
+}
+
+.join-button {
+    border-color: white !important;
+    color: white !important;
+}
+
+.join-button:hover {
+    background-color: #0c525d !important;
+}
+
+.input-group .form-control {
+    /*width: 200px!important;*/
+    flex: 0.6 !important;
+    margin-left: 20rem;
+}
+
+.login {
+    background-color: #f9f9f9;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.new_here {
+    text-align: justify; /* For Edge */
+    text-align-last: right;
+    padding: 2rem;
+}
+
+.signup {
+    padding-top: 0.7rem;
+    padding-bottom: 0 !important;
+    padding-right: 0 !important;
+    border-radius: 10px;
+    background-color: #EAF0F9;
+
+}
+
+.nav-item a {
+    padding-top: 0 !important;
+    padding-left: 0 !important;
+}
+
+
+@media only screen and (max-width: 700px) {
+    .input-group .form-control {
+        /*width: 200px!important;*/
+        flex: 0.6 !important;
+        margin-left: 2rem;
+    }
+}
+
+@media screen and (min-width: 1298px) {
+    .nav-item {
+        padding-left: 20px;
+    }
+
+}
+
+
+
