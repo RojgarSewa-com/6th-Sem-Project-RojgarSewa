@@ -10,7 +10,7 @@ html, body {
 }
 
 nav {
-    background: #0096B7;
+    background: #212d39;
     font-size: 1rem;
     font-weight: normal;
 }
@@ -35,14 +35,14 @@ nav img {
 
 
 .banner {
-    background-image: url("https://assets.cureus.com/uploads/homepage_hero/hero_image/1/hero_homepage.jpeg");
+    background-image: url("https://www.pixelstalk.net/wp-content/uploads/images1/Annapurna-Range-Nepal-Himalayas-Mountains-Sky-Sunset-Nature-Wallpapers-1920x1080.jpg");
     color: black;
-    height: 500px;
+    height: 650px;
 }
 
 .search {
     color: white;
-    background-color: #0096B7;
+    background-color: #212d39;
     margin-left: 2rem !important;
     width: 5rem;
     border: #0096B7;
@@ -53,7 +53,7 @@ nav img {
 }
 
 footer {
-    background-color: #555555;
+    background-color: #212d39;
     color: white;
     padding-top: 4rem;
     padding-bottom: 3rem;

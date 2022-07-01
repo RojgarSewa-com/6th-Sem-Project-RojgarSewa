@@ -11,8 +11,8 @@
         <div class="col-lg-4 col-6">
             <p>Contact</p>
             <p>Rojgar Sewa</p>
-            <p>Address:Nadipur,Pokhara</p>
-            <p>Email:abcd@gmail.com</p>
+            <p>Address: Urlabari-03, Morang</p>
+            <p>Email:RojgarSewa@gmail.com</p>
         </div>
         <div class="col-lg-4">
             <p>Connect with us:</p>
