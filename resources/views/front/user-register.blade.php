@@ -14,10 +14,10 @@
                         <form>
                         <div class="row">
                             <div class="col-3">
-                                <label class="mt-2">Name</label>
+                                <label class="mt-2" >Name</label>
                             </div>
                             <div class="col">
-                                <input type="text" name="name" class="form-control">
+                                <input type="text" name="name" class="form-control" placeholder="Full Name">
                             </div>
                         </div>
                             <div class="row mt-3">
@@ -25,7 +25,7 @@
                                     <label class="mt-2">Email</label>
                                 </div>
                                 <div class="col">
-                                    <input type="email" name="email" class="form-control">
+                                    <input type="email" name="email" class="form-control" placeholder="Email">
                                 </div>
                             </div>
                             <div class="row mt-3">
@@ -33,7 +33,7 @@
                                     <label class="mt-2">Password</label>
                                 </div>
                                 <div class="col">
-                                    <input type="password" name="password" class="form-control">
+                                    <input type="password" name="password" class="form-control" placeholder="Password">
                                 </div>
                             </div>
                             <div class="row mt-3">
@@ -41,7 +41,7 @@
                                     <label class="mt-2">Street</label>
                                 </div>
                                 <div class="col">
-                                    <input type="text" name="street" class="form-control">
+                                    <input type="text" name="street" class="form-control" placeholder="New Baneshwor">
                                 </div>
                             </div>
                             <div class="row mt-3">
@@ -49,7 +49,7 @@
                                     <label class="mt-2">City</label>
                                 </div>
                                 <div class="col">
-                                    <input type="text" name="city" class="form-control">
+                                    <input type="text" name="city" class="form-control" placeholder="Kathmandu">
                                 </div>
                             </div>
                             <div class="row mt-3">
@@ -57,7 +57,7 @@
                                     <label class="mt-2">Phone No.</label>
                                 </div>
                                 <div class="col">
-                                    <input type="tel" name="phone" class="form-control">
+                                    <input type="tel" name="phone" class="form-control" placeholder="98XXXXXXXX">
                                 </div>
                             </div>
                             <div class="row mt-3">

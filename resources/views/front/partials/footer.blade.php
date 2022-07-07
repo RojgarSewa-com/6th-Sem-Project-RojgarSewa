@@ -21,6 +21,7 @@
                 <a href="#"><i class="fab fa-linkedin "></i></a>
                 <a href="#"><i class="fab fa-twitter "></i></a>
                 <a href="#"><i class="fab fa-instagram "></i></a>
+                <a href="#"><i class="fab fa-facebook "></i></a>
             </div>
             <p class="mt-3">In association with:</p>
         </div>

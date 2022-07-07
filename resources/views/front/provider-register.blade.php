@@ -21,7 +21,7 @@
                                 <label class="mt-2">Name</label>
                             </div>
                             <div class="col">
-                                <input type="text" name="name" class="form-control">
+                                <input type="text" name="name" class="form-control" placeholder="Full Name">
                             </div>
                         </div>
                             <div class="row mt-3">
@@ -29,7 +29,7 @@
                                     <label class="mt-2">Email</label>
                                 </div>
                                 <div class="col">
-                                    <input type="email" name="email" class="form-control">
+                                    <input type="email" name="email" class="form-control" placeholder="abcd@gmail.com">
                                 </div>
                             </div>
                             <div class="row mt-3">
@@ -37,8 +37,7 @@
                                     <label class="mt-2">Service Provided</label>
                                 </div>
                                 <div class="col">
-                                    <input type="email" name="email" class="form-control">
-                                </div>
+                                    <input type="email" name="email" class="form-control" placeholder="Eg. Plumber, Electrician">
                             </div>
 
                             <div class="row mt-3">
@@ -46,7 +45,7 @@
                                     <label class="mt-2">Password</label>
                                 </div>
                                 <div class="col">
-                                    <input type="password" name="password" class="form-control">
+                                    <input type="password" name="password" class="form-control" placeholder="Strong Password">
                                 </div>
                             </div>
                             <div class="row mt-3">
@@ -54,7 +53,7 @@
                                     <label class="mt-2">Street</label>
                                 </div>
                                 <div class="col">
-                                    <input type="text" name="street" class="form-control">
+                                    <input type="text" name="street" class="form-control" placeholder="New Baneshwor">
                                 </div>
                             </div>
                             <div class="row mt-3">
@@ -62,7 +61,7 @@
                                     <label class="mt-2">City</label>
                                 </div>
                                 <div class="col">
-                                    <input type="text" name="city" class="form-control">
+                                    <input type="text" name="city" class="form-control" placeholder="Kathmandu">
                                 </div>
                             </div>
                             <div class="row mt-3">
@@ -70,7 +69,7 @@
                                     <label class="mt-2">Phone No.</label>
                                 </div>
                                 <div class="col">
-                                    <input type="tel" name="phone" class="form-control">
+                                    <input type="tel" name="phone" class="form-control" placeholder="98XXXXXXX">
                                 </div>
                             </div>
                             <div class="row mt-3">
@@ -89,9 +88,9 @@
                                     <select name="rocket" id="car">
                                         <option value="volvo">Cleaning</option>
                                         <option value="saab">Delivery</option>
-                                        <option value="volvo">Volvo</option>
-                                        <option value="saab">Saab</option>
-                                        <option value="volvo">Volvo</option>
+                                        <option value="volvo">engineering</option>
+                                        <option value="saab">doctor</option>
+                                        <option value="volvo">electrician</option>
                                         <option value="saab">Saab</option>
                                         <option value="volvo">Volvo</option>
                                         <option value="saab">Saab</option>
