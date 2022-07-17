@@ -72,7 +72,7 @@
                         <div class="text-center mt-4">
                             <button type="button" class="btn btn-primary">SIGN UP</button>
                         </div>
-                        <p class="mt-4 mb-5 text-center">Alreadt have an account? <a href="{{route('login')}}" style="text-decoration: none; color: #0096B7">Login</a></p>
+                        <p class="mt-4 mb-5 text-center">Already have an account? <a href="{{route('login')}}" style="text-decoration: none; color: #0096B7">Login</a></p>
                         </form>
                     </div>
                 </div>
