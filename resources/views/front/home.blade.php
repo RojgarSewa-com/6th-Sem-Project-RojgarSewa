@@ -33,7 +33,7 @@
     height:200px;
     margin:20px;
     text-align: center;
-    border-radius: 20px;
+    border-radius: 16px;
     
 }
 .icon{
@@ -110,6 +110,11 @@
 h1.Top_services {
     margin-top: 50px;
 }
+.card.topservices {
+    border: none;
+    color: black;
+    background-color: white;
+}
 
  </style>
 <div class="container-fluid banner text-center">
@@ -126,7 +131,7 @@ h1.Top_services {
 <!-- TOP SERVICES PART START -->
 
 <div class="containerss">
-       <div class="card">
+       <div class="card topservices">
             <h1 class="Top_services">Top Services</h1>
         </div>
 
