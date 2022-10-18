@@ -74,6 +74,10 @@
     background-image:url("http://127.0.0.1:8000/images/laptop-repair-3690681-3073968.png");
     background-size: cover;
     border-radius: 15px 15px 0 0;
+;
+
+
+
 
 }
 .icon5{
@@ -184,7 +188,7 @@ h1.Top_services {
         </div>
     </div>
 </section>
-<div class="container m-5" >
+<div class="container mp-5" >
 
 </div>
 

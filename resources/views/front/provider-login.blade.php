@@ -1,10 +1,4 @@
-@extends('front.layouts.app')
-<style>
-    .login{
-        font-size: 0.9rem!important;
-    }
-</style>
-@section('content')
+
 <div class="container-fluid login">
     <div class="row d-flex justify-content-center">
         <div class="col-6 border" style="background-color: white">
@@ -39,4 +33,3 @@
         </div>
     </div>
 </div>
-@endsection
