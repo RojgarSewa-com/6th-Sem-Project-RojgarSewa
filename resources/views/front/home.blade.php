@@ -115,7 +115,9 @@ h1.Top_services {
     color: black;
     background-color: white;
 }
+.container {
 
+}
  </style>
 <div class="container-fluid banner text-center">
 <h1 style="padding-top: 6rem;">Services On Your Finger.</h1>
@@ -182,5 +184,9 @@ h1.Top_services {
         </div>
     </div>
 </section>
+<div class="container m-5" >
+
+</div>
+
 
 @endsection
