@@ -28,7 +28,7 @@
 }
 .card{
     
-    background-color: #026176;
+    background-color: #006e9d;
     width:200px;
     height:200px;
     margin:20px;
@@ -124,8 +124,8 @@ h1.Top_services {
 }
  </style>
 <div class="container-fluid banner text-center">
-<h1 style="padding-top: 6rem;">Services On Your Finger.</h1>
-    <h3 class="pt-4">An innovative, more efficient platform for service providers and <br> users ask and give services.
+<h1 style="padding-top: 6rem; color: white;">Services On Your Finger.</h1>
+    <h3 class="pt-4" style="color: white;">An innovative, more efficient platform for service providers and <br> users ask and give services.
     </h3>
    <!-- <div class="row">
        <div class="input-group container mt-5">
@@ -195,7 +195,7 @@ h1.Top_services {
 <!-- TOP SERVICES PART END -->
 
 <!-- {{-- Footer navigation bar End --}} -->
-<section class="join" style="background-color: #026176">
+<section class="join" style="background-color: #006e9d">
     <div class="container">
         <div class="row p-5">
             <div class="col-9">
