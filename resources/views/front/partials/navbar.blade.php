@@ -14,18 +14,28 @@
             <ul class="navbar-nav ms-auto mb-2 mb-lg-0 ">
 
                 <li class="nav-item">
-                        <a class="nav-link {{Request::is('/*') ? 'active' : '' }}" href="{{route('home')}}">HOME</a>
+                        <a class="nav-link {{Request::is('/*') ? 'active' : '' }}" href="{{route('home')}}">Home</a>
                 </li>
                 <li class="nav-item">
-                        <a class="nav-link">ABOUT US</a>
+                        <a class="nav-link">Professions</a>
                 </li>
+                <li class="nav-item">
+                        <a class="nav-link">Locations</a>
+                </li>
+                <li class="nav-item">
+                        <a class="nav-link">About</a>
+                </li>
+                <li class="nav-item">
+                        <a class="nav-link">Team</a>
+                </li>
+
                 <li class="nav-item">
                         <a class="nav-link register {{Request::is('login*') ? 'active' : '' }}"
-                           href="{{route('login')}}">LOGIN</a>
+                           href="{{route('login')}}">Login</a>
                 </li>
                 <li class="nav-item">
                         <a class="nav-link {{Request::is('register*') ? 'active' : '' }}"
-                           href="{{route('register')}}">SIGN UP</a>
+                           href="{{route('register')}}">Register</a>
                 </li>
             </ul>
         </div>

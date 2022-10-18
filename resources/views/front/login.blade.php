@@ -1,7 +1,8 @@
 @extends('front.layouts.app')
 
 @section('content')
-    <div class="container-fluid login">
+@include('/front/user-login')
+    <!-- <div class="container-fluid login">
         <div class="row d-flex justify-content-center">
             <div class="row justify-content-center" style="background-color: white">
                 <div class="col-sm-3">
@@ -25,6 +26,6 @@
                 $('#layout2').append(`@include('/front/provider-login')`);
             }
         });
-</script>
+</script> -->
 @endsection
 

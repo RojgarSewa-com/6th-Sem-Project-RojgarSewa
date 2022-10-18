@@ -127,10 +127,29 @@ h1.Top_services {
 <h1 style="padding-top: 6rem;">Services On Your Finger.</h1>
     <h3 class="pt-4">An innovative, more efficient platform for service providers and <br> users ask and give services.
     </h3>
-    <div class="input-group container mt-5">
-        <input type="search" class="form-control" placeholder="Enter a Profession....." aria-label="Search" aria-describedby="search-addon" />
-            <button class="search">Search</button>
-    </div>
+   <!-- <div class="row">
+       <div class="input-group container mt-5">
+           <input type="search" class="form-control" placeholder="Enter a Profession....." aria-label="Search" aria-describedby="search-addon" />
+               <button class="search">Search</button>
+       </div>
+       <div class="input-group container mt-5">
+           <input type="search" class="form-control" placeholder="Enter a Profession....." aria-label="Search" aria-describedby="search-addon" />
+               <button class="search">Search</button>
+       </div> -->
+       <div class="row d-flex justify-content-center">
+            <div class="row justify-content-center" >
+                <div class="col-sm-3">
+                <input type="search" class="form-control" placeholder="Enter a Location....." aria-label="Search" aria-describedby="search-addon"  />
+                </div>
+                <div class="col-sm-3">
+                <input type="search" class="form-control" placeholder="Enter a Profession....." aria-label="Search" aria-describedby="search-addon"  />
+                </div>
+                <div class="col-sm-1">
+                <button class="search">Search</button>
+            </div>
+        </div>
+
+   </div>
 </div>
 
 

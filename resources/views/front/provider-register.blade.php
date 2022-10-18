@@ -2,7 +2,7 @@
     <div class="container-fluid login">
         <div class="row d-flex justify-content-center">
             <div class="col-6 border" style="background-color: white">
-                <h5 class="text-center mt-5"><b style="color: #0096B7">Sign Up for RojgarSewa</b></h5>
+                <h5 class="text-center mt-5"><b style="color: #0096B7">Sign up for RojgarSewa</b></h5>
                 <div class="row mt-5 d-flex justify-content-center">
                     <div class="col-7">
                         <form>
