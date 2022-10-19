@@ -22,11 +22,6 @@ class FrontController extends BaseFrontController
         return view('front.user-login');
 
     }
-    function providerLogin()
-    {
-        return view('front.provider-login');
-
-    }
     function register()
     {
         return view('front.register');

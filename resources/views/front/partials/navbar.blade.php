@@ -1,5 +1,5 @@
 <nav class="navbar navbar-expand-lg navbar-light">
-    <div class="container-fluid d-flex align-content-center">
+    <div class="container d-flex align-content-center">
         <div class="layer">
             <div style="margin-top: 1rem!important;">
                 <a class="navbar-brand" href="{{route('home')}}"><img style="height: 40px !important;"
